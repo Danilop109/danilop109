@@ -1,5 +1,7 @@
 # 💫 About Me:
-¡Hello! I'm Daniela López, a passionate Colombian programmer. I'm committed to learning and excelling in the tech world. I enjoy collaborating, contributing ideas, and sharing knowledge for collective success. With experience in various technologies, I'm ready to adapt to new challenges. My goal is to make a mark in programming. Thanks for visiting my GitHub profile! <br><br>
+¡Hello! I'm Daniela López, a passionate Colombian programmer. I'm committed to learning and excelling in the tech world. I enjoy collaborating, contributing ideas, and sharing knowledge for collective success. With experience in various technologies, I'm ready to adapt to new challenges. My goal is to make a mark in programming.
+
+Thanks for visiting my GitHub profile! <br><br>
 
 
 ## 🌐 Socials:
